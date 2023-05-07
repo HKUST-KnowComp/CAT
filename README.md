@@ -3,7 +3,7 @@
 This is the official code and data repository for the [ACL2023](https://2023.aclweb.org/) (Main Conference) paper:
 CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning.
 
-![Overview](demo/overview.png "An overview of CAT framework")
+![Overview](demo/overview.jpg "An overview of CAT framework")
 
 ## 1. Download Dataset/Model Checkpoints
 
