@@ -91,3 +91,11 @@ Please use the bibtex below for citing our paper:
   booktitle    = {Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics, {ACL} 2023}
 }
 ```
+
+## 5. Acknowledgement
+
+The authors of this paper are supported by the NSFC Fund (U20B2053) from the NSFC of China, the RIF (R6020-19 and
+R6021-20), and the GRF (16211520 and 16205322) from RGC of Hong Kong, the MHKJFS (MHP/001/19) from ITC of Hong Kong and
+the National Key R&D Program of China (2019YFE0198200) with special thanks to HKMAAC and CUSBLT.
+We also thank the UGC Research Matching Grants (RMGS20EG01-D, RMGS20CR11, RMGS20CR12, RMGS20EG19, RMGS20EG21,
+RMGS23CR05, RMGS23EG08).
