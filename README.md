@@ -1,7 +1,7 @@
 # CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning
 
 This is the official code and data repository for the [ACL2023](https://2023.aclweb.org/) (Main Conference) paper:
-CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning.
+[CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning](https://arxiv.org/pdf/2305.04808.pdf).
 
 ![Overview](demo/overview.png "An overview of CAT framework")
 
